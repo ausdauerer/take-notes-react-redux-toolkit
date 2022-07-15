@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/take-notes-react-redux-toolkit/static/css/main.bfcb72c2.css",
+    "main.js": "/take-notes-react-redux-toolkit/static/js/main.8ff20db2.js",
+    "static/js/787.34ed7854.chunk.js": "/take-notes-react-redux-toolkit/static/js/787.34ed7854.chunk.js",
+    "index.html": "/take-notes-react-redux-toolkit/index.html",
+    "main.bfcb72c2.css.map": "/take-notes-react-redux-toolkit/static/css/main.bfcb72c2.css.map",
+    "main.8ff20db2.js.map": "/take-notes-react-redux-toolkit/static/js/main.8ff20db2.js.map",
+    "787.34ed7854.chunk.js.map": "/take-notes-react-redux-toolkit/static/js/787.34ed7854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfcb72c2.css",
+    "static/js/main.8ff20db2.js"
+  ]
+}
